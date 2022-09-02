@@ -1,0 +1,8 @@
+datasets:
+  - uuid: metrics
+    url: /q/metrics
+pages:
+  - components:
+      - settings:
+          lookup:
+            uuid: metrics
